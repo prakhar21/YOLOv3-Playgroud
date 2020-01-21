@@ -2,9 +2,9 @@
 
 
 # Steps to Run
-1. Clone the repo.
-2. Download YOLOv3 weights from [here](https://pjreddie.com/media/files/yolov3.weights). Don't forget to change the path of the weights in run.py.
-3. Run python run.py
+1. __Clone__ the repo.
+2. __Download YOLOv3 weights__ from [here](https://pjreddie.com/media/files/yolov3.weights). Don't forget to change the path of the weights in run.py.
+3. Run __python run.py__
 4. Output will be stored in _detected_ folder.
 
 # Output
