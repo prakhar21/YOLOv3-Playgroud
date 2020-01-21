@@ -1,3 +1,6 @@
-# YOLO Pre0trained Inference
+# YOLO Pre-trained Inference
 
-1. Download YOLOvs weights from [here](https://pjreddie.com/media/files/yolov3.weights)
+
+# Steps to Run
+1. Clone
+2. Download YOLOv3 weights from [here](https://pjreddie.com/media/files/yolov3.weights). Don't forget to change the path of the weights in run.py.
