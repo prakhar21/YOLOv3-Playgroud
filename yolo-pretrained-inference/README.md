@@ -10,4 +10,4 @@
 # Output
 <p align="center">
   <img width="350" height="220" src="https://github.com/prakhar21/YOLOv3-Playgroud/blob/master/yolo-pretrained-inference/dog_object_detection.png">
-</p>)
+</p>
